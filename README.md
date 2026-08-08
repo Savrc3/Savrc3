@@ -10,3 +10,5 @@ Undergraduate student at SDU School of Integrated Circuits. Love tinkering with 
 - 📫 联系：Savrc3@qq.com · B站 Savrc3
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-course-schedule-widget.svg)
