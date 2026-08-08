@@ -8,3 +8,5 @@ Undergraduate student at SDU School of Integrated Circuits. Love tinkering with 
 - 🔭 在搞：savrc3.icu 服务器服务、[课表备忘录](https://github.com/Savrc3/course-schedule-widget)（[下载安装包](https://github.com/Savrc3/course-schedule-widget/releases)）
 - 🌱 在学：STM32 单片机、数字电路、IC 设计
 - 📫 联系：Savrc3@qq.com · B站 Savrc3
+
+![Stats](./profile/stats.svg)
