@@ -44,14 +44,24 @@
 
 ## 技术栈
 
-| 技术 | 水平 | 证据 |
-|------|------|------|
-| C / 嵌入式 | 能点灯能通信 | STM32-DEMO 还活着，PWM 串口定时器都会用 |
-| HTML/CSS/JS | 能写网页 | 个人主页、导航站、课表备忘录都是我写的 |
-| Astro | 能搭静态站 | 个人主页就是 Astro 搭的 |
-| Electron | 能写桌面应用 | 课表备忘录，真有人在用 |
-| Docker | 能跑容器 | 但出问题了要搜半天 |
-| Linux | 能用命令行 | `rm -rf` 这种命令我可不敢乱用 |
+<p>
+  <img src="https://img.shields.io/badge/C%2F嵌入式-能点灯能通信-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-能写网页-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Astro-能搭静态站-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Electron-能写桌面应用-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-能跑容器-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-能用命令行-yellow?style=flat-square" />
+</p>
+
+---
+
+## 数据说话
+
+<p align="center">
+  <img src="./profile/stats.svg" width="400" />
+  <img src="./profile/top-langs.svg" width="200" />
+  <img src="./profile/pin-course-schedule-widget.svg" />
+</p>
 
 ## 项目展示
 
