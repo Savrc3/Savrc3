@@ -60,7 +60,6 @@
 <p align="center">
   <img src="./profile/stats.svg" width="400" />
   <img src="./profile/top-langs.svg" width="200" />
-  <img src="./profile/pin-course-schedule-widget.svg" />
 </p>
 
 ## 项目展示
