@@ -46,12 +46,15 @@
 ## 技术栈
 
 <p>
-  <img src="https://img.shields.io/badge/C%2F嵌入式-能点灯能通信-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-能写网页-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Astro-能搭静态站-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Electron-能写桌面应用-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-能跑容器-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-能用命令行-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_C-灰?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_嵌入式-灰?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_Python-蓝?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_Java-橙?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_JS-黄?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_Docker-蓝?style=flat-square" />
+  <img src="https://img.shields.io/badge/会一点_Linux-黄?style=flat-square" />
+  <img src="https://img.shields.io/badge/不会_Rust-黑?style=flat-square" />
+  <img src="https://img.shields.io/badge/不会_C++-黑?style=flat-square" />
 </p>
 
 ---
