@@ -1,94 +1,32 @@
-<p align="center">
-  <h1 align="center">⚠️ 此 GitHub 主页由一只笨蛋小猪维护</h1>
-</p>
+# Savrc3
 
-<p align="center">
-  <strong>什么都不会，但什么都在折腾</strong>
-</p>
+山东大学集成电路学院本科生，正在学习硬件、软件与服务器运维。
 
-<p align="center">
-  山东大学集成电路学院 · 一个不小心就变成了全栈工程师（？）
-</p>
+这里放一些个人学习项目和实验记录。它们主要服务于我的实际使用，不代表我已经是相关领域的专家；如果项目里有不合理的地方，欢迎通过 Issue 提出建议。
 
-<p align="center">
-  <a href="https://savrc3.icu"><img src="https://img.shields.io/badge/🌐-看看我的破站-4f8cff?style=flat-square" /></a>
-  <a href="mailto:Savrc3@qq.com"><img src="https://img.shields.io/badge/📧-来骂我-EA4335?style=flat-square" /></a>
-  <a href="https://space.bilibili.com"><img src="https://img.shields.io/badge/▶-Bilibili-FB7299?style=flat-square" /></a>
-</p>
+## 我在学习什么
 
----
+- 嵌入式与 STM32
+- Python、FastAPI 与 SQLite
+- Vue、TypeScript 与前端工程
+- Electron、Capacitor 与跨端应用
+- Linux、Docker、nginx 与基础运维
 
-## 我的一天
+我更关心“把一个想法做成能用的东西”，也会记录其中做错的地方、取舍和限制。
 
-```
-07:30  被闹钟吵醒，早八要迟到了
-08:00  数字电路，眼皮在打架
-10:00  终于下课了，喘口气
-10:05  打开服务器看看有没有挂
-10:30  模电实验课要来了，赶紧预习
-12:00  吃饭，午休
-14:00  下午课开始了，原子物理……
-16:00  下课，但还有实验报告没写
-19:00  写实验报告，写到快凌晨
-23:30  终于写完了，打开服务器玩一会
-01:00  明天还有早八，算了睡觉
-```
-
-## 我在干嘛
-
-- ⚡ 用 STM32 点灯（对，就是点灯）
-- 🤖 养了两个 QQ 机器人，它们比我聪明
-- 🏠 搞了个服务器，天天担心它挂掉
-- 🌐 写了一堆前端页面，自己还挺得意的
-- 📝 写了个课表备忘录，因为记不住课
-- 📚 数电模电原子物理轮番轰炸，焦头烂额中
-
-## 技术栈
-
-<p>
-  <img src="https://img.shields.io/badge/会一点_C-灰?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_嵌入式-灰?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_Python-蓝?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_Java-橙?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_JS-黄?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_Docker-蓝?style=flat-square" />
-  <img src="https://img.shields.io/badge/会一点_Linux-黄?style=flat-square" />
-  <img src="https://img.shields.io/badge/不会_Rust-黑?style=flat-square" />
-  <img src="https://img.shields.io/badge/不会_C++-黑?style=flat-square" />
-</p>
-
----
-
-## 数据说话
-
-<p align="center">
-  <img src="./profile/stats.svg" width="400" />
-  <img src="./profile/top-langs.svg" width="200" />
-</p>
-
-## 项目展示
+## 代表项目
 
 | 项目 | 说明 | 状态 |
-|------|------|------|
-| 课表备忘录 | 终于不用记课表了 | ✅ 在用 |
-| QQ 机器人 | 两个机器人比我聪明 | ✅ 在跑 |
-| 个人主页 | 看着挺像回事 | ✅ 在线 |
-| 导航站 | 一堆链接 | ✅ 在那 |
-| STM32 灯 | 亮了！ | ✅ 亮了 |
+| --- | --- | --- |
+| [课序](https://github.com/Savrc3/supercourse-community) | 本地优先、可自行部署的大学课表与课程待办工具 | v1.0.1 |
+| [课表备忘录](https://github.com/Savrc3/course-schedule-widget) | 一个较早的 Electron 课表挂件实验 | v1.0.0 |
+| [集成电路学院学生工作网站](https://github.com/Savrc3/icstudentunion) | 基于上游项目的个人 Fork，记录部署和静态资源适配 | 维护中 |
 
-## 最近状态
+## 项目原则
 
-- 😴 想睡觉
-- 🍜 想吃饭
-- 💻 但是还有活没干完
-- 🐷 但是我是笨蛋小猪所以没关系
+- 先解决自己的真实问题，再考虑是否适合别人使用。
+- 清楚区分“已经验证的功能”和“未来设想”。
+- 尽量公开运行方式、限制和安全边界，不把个人服务器或个人数据当成产品的一部分。
+- 能用简单方案解决的问题，不额外堆复杂技术。
 
----
-
-<p align="center">
-  <i>虽然我什么都不会，但我什么都在学。<br>总有一天我会变成一只厉害的小猪。</i>
-</p>
-
-<p align="center">
-  <i>如果你看到了这里，说明你真的很闲。<br>欢迎加我 QQ 聊天，说不定我们一样焦头烂额。</i>
-</p>
+个人主页：[savrc3.icu](https://savrc3.icu)
